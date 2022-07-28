@@ -1,0 +1,15 @@
+{
+  "name": "process-review2",
+  "version": "1.0.0",
+  "description": "company makes digital audio workstation plugins  musicians writing electronic music apply their filters to their tracks to change how they sound today i need to write a band pass filter (works with frequencies, have a lower and upper limit, will set anything above/below inside the bassline given)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
