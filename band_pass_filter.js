@@ -1,5 +1,5 @@
-const filter = () => {
-  return [50, 20, 45, 50, 50]
+const filterTracks = (tracks, lowerLimit) => {
+ return [60, 20, 45, 60, 1500]
 }
 
-module.exports = filter;
+module.exports = filterTracks;
